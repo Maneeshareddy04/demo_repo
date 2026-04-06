@@ -1,0 +1,10 @@
+Hello GitHub!
+
+This is my first file.
+I am learning Git and GitHub step by step.
+
+- Created a repository
+- Added a file
+- Trying to push it
+
+Success is near 🚀
